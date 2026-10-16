@@ -102,3 +102,9 @@ export GF_FINETUNED_MODEL="/path/to/checkpoint"   # ISP 用的微调分类器
 ## 文档
 
 - [CHANGELOG.md](CHANGELOG.md) —— 模块总览 + 逐步迁移历史。
+
+## 截图
+
+<p align="center">
+  <img src="docs/tern_connect_qr.jpg" alt="Tern Connect from mobile 二维码" width="360">
+</p>
